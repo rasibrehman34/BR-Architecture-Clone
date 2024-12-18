@@ -1,0 +1,14 @@
+#hero #hero-bg{
+    background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#br-word{
+    background-color: rgba(0, 0, 0, 0.689);
+    
+}
+#about img{
+    filter: grayscale(0.7);
+}
